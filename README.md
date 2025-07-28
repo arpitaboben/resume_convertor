@@ -30,7 +30,6 @@ The generated resume includes:
 - Professional Summary  
 - Skills  
 - Work Experience  
-- Projects  
 - Certifications  
 - Achievements  
 - Education  
