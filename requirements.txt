@@ -1,0 +1,9 @@
+streamlit
+python-docx
+PyPDF2
+pytesseract
+pdf2image
+fpdf
+pyresparser
+Pillow
+pywin32
